@@ -1,0 +1,5 @@
+
+Xsquid:S1118
+":Add a private constructor to hide the implicit public one.(ÇÀ—„8—Œ•ÐÃ-
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8—Œ•ÐÃ-
+tsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ÉÅ£ó8—Œ•ÐÃ-
